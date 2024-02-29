@@ -26,6 +26,7 @@ public class ChessMatch {
 
 	private void initialSetup() {
 		board.placePiece(new Rook(board, Color.BLACK), new Position(2, 1));
+
 	}
 
 }
